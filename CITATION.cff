@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software or code, please cite it alongside the primary manuscript."
+title: "Divide-WF-feedback-Ovil: Code and data for feedback between drainage divide migration and waterfall retreat"
+authors:
+  - family-names: "Porat"
+    given-names: "Omri"
+    affiliation: "Department of Earth and Environmental Sciences, Ben-Gurion University of the Negev, Beer-Sheva, Israel"
+  - family-names: "Goren"
+    given-names: "Liran"
+    affiliation: "Department of Earth and Environmental Sciences, Ben-Gurion University of the Negev, Beer-Sheva, Israel"
+  - family-names: "Harel"
+    given-names: "Elhanan"
+    affiliation: "Department of Earth and Environmental Sciences, Ben-Gurion University of the Negev, Beer-Sheva, Israel"
+  - family-names: "Qu"
+    given-names: "Tianyue"
+    affiliation: "Department of Geology and Environmental Science, University of Pittsburgh, Pittsburgh, Pennsylvania, USA"
+  - family-names: "Shelef"
+    given-names: "Eitan"
+    affiliation: "Department of Geology and Environmental Science, University of Pittsburgh, Pittsburgh, Pennsylvania, USA"
+version: "1.0.0"
+date-released: 2026-07-22
+url: "https://github.com/omriporat1/Divide-WF-feedback-Ovil"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Porat"
+      given-names: "Omri"
+    - family-names: "Goren"
+      given-names: "Liran"
+    - family-names: "Harel"
+      given-names: "Elhanan"
+    - family-names: "Qu"
+      given-names: "Tianyue"
+    - family-names: "Shelef"
+      given-names: "Eitan"
+  title: "Feedback between drainage divide migration and waterfall retreat can form and sustain embayments along escarpments: Morphometric and field evidence"
+  journal: "Earth Surface Processes and Landforms"
+  volume: 51
+  issue: 7
+  articlenumber: "e70346"
+  year: 2026
+  doi: "10.1002/esp.70346"
